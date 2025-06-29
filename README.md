@@ -33,5 +33,3 @@ Cada cartão contém informações básicas e foi pensado para se adaptar bem a 
 Feito com 💙 por [Natália Baptista Pastre](https://github.com/natipastre) |  
 [🔗 LinkedIn](https://www.linkedin.com/in/natalia-pastre/)
 
-Feito com 💙 por [Natália Baptista Pastre](https://github.com/natipastre) |  
-[🔗 LinkedIn](https://www.linkedin.com/in/natalia-pastre/)
