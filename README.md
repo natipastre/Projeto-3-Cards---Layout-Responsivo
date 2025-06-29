@@ -5,7 +5,7 @@ Este projeto foi desenvolvido durante as aulas do curso **Serfrontend**, dispon�
 ✨ Veja abaixo uma prévia do projeto:
 
 <p align="center">
-  <img src="https://i.postimg.cc/XYsJN7dH/projeto.png" alt="Projeto 3 – Cartões - prévia do projeto" width="400"/>
+  <img src="https://i.postimg.cc/XYsJN7dH/projeto.png" alt="Projeto 3 – Cartões - prévia do projeto" width="500"/>
 </p>
 
 ---
