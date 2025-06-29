@@ -5,7 +5,7 @@ Este projeto foi desenvolvido durante as aulas do curso **Serfrontend**, dispon�
 ✨ Veja abaixo uma prévia do projeto:
 
 <p align="center">
-  <img src="https://i.postimg.cc/XYsJN7dH/projeto.png" alt="Projeto 3 – Cartões - prévia do projeto" width="500"/>
+  <img src="https://i.postimg.cc/XYsJN7dH/projeto.png" alt="Projeto 3 – Cartões - prévia do projeto" width="600"/>
 </p>
 
 ---
@@ -29,6 +29,9 @@ Cada cartão contém informações básicas e foi pensado para se adaptar bem a 
 - CSS3  
 
 ---
+
+Feito com 💙 por [Natália Baptista Pastre](https://github.com/natipastre) |  
+[🔗 LinkedIn](https://www.linkedin.com/in/natalia-pastre/)
 
 Feito com 💙 por [Natália Baptista Pastre](https://github.com/natipastre) |  
 [🔗 LinkedIn](https://www.linkedin.com/in/natalia-pastre/)
