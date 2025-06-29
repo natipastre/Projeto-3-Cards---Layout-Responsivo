@@ -10,16 +10,17 @@ Este projeto foi desenvolvido durante as aulas do curso **Serfrontend**, dispon�
 
 ---
 
-## 🚀 Visualização Online
+## 📝 Descrição
 
-🔗 [Clique aqui para acessar o Projeto 3 – Cartões](https://natipastre.github.io/Projeto-3-Cards---Layout-Responsivo/)
+Este projeto apresenta um layout responsivo com três cartões elegantes, criados com **HTML** e **CSS**. Cada cartão exibe informações essenciais e foi cuidadosamente desenvolvido para se adaptar perfeitamente a diferentes tamanhos de tela, proporcionando uma experiência visual agradável tanto em dispositivos desktop quanto móveis.
+
+A ideia principal foi praticar técnicas de design responsivo, organização semântica do código e estilização moderna.
 
 ---
 
-## 📝 Descrição
+## 🚀 Visualização Online
 
-Projeto simples que apresenta um layout responsivo com três cartões, utilizando **HTML** e **CSS**.  
-Cada cartão contém informações básicas e foi pensado para se adaptar bem a diferentes tamanhos de tela, garantindo uma boa experiência visual em dispositivos desktop e mobile.
+🔗 [Clique aqui para acessar o Projeto 3 – Cartões](https://natipastre.github.io/Projeto-3-Cards---Layout-Responsivo/)
 
 ---
 
